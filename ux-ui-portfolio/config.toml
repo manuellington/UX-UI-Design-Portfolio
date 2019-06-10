@@ -1,4 +1,4 @@
-baseURL = "https://manuellington.github.io/UX-UI-Design-Portfolio/"
+baseURL = "https://manuellington.github.io/ux-ui-design-portfolio/"
 languageCode = "en-us"
 title = "Manuel Ferro UX/UI Designer"
 theme = "hugo-resume"

@@ -155,6 +155,6 @@ img {
   max-width:80%;
 }
 
-.inner-project-img img{
+img.inner-project-img {
   max-width: 90%;
 }

@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evenbrite on Manuel Ferro UI/UX Designer</title>
-    <link>http://manuelferro.com/tags/evenbrite/</link>
+    <link>https://manuellington.github.io/UX-UI-Design-Portfolio/tags/evenbrite/</link>
     <description>Recent content in Evenbrite on Manuel Ferro UI/UX Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://manuelferro.com/tags/evenbrite/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manuellington.github.io/UX-UI-Design-Portfolio/tags/evenbrite/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Open Go</title>
-      <link>http://manuelferro.com/projects/opengo/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/opengo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/opengo/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/opengo/</guid>
       <description>Open Go conference website for Go-lang community. Served as a UX-UI Design and development, created wireframes into an interactive prototype. Build on Hugo’s framework static site generator and integration of Evenbrite ticketing API. Event branding, and conference giveaways and logo design.</description>
     </item>
     
     <item>
       <title>Gophercon 2017</title>
-      <link>http://manuelferro.com/projects/gophercon17/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/gophercon17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/gophercon17/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/gophercon17/</guid>
       <description>Gophercon annual conference for Golang community. Served as an essential member of the Graphic / Web design team. Created wireframes and mockups for conference website and Eventbrite integration. Design Event package such as banners, booklets, event schedule, shirts, etc.</description>
     </item>
     
     <item>
       <title>Gophercon 2016</title>
-      <link>http://manuelferro.com/projects/gophercon16/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/gophercon16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/gophercon16/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/gophercon16/</guid>
       <description>Gophercon 2016 annual conference for Golang community. Served as an essential member of the Graphic / Web design team. Created wireframes and mockups for conference website and Eventbrite integration. Design Event package such as banners, booklets, event schedule, shirts, etc.</description>
     </item>
     
     <item>
       <title>Gophercon 2015</title>
-      <link>http://manuelferro.com/projects/gophercon15/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/gophercon15/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/gophercon15/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/gophercon15/</guid>
       <description>Gophercon 2015 annual conference for Golang community. Served as an essential member of the Graphic / Web design team. Created wireframes and mockups for conference website and Eventbrite integration. Design Event package such as banners, booklets, event schedule, shirts, etc.</description>
     </item>
     

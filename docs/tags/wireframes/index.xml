@@ -2,110 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wireframes on Manuel Ferro UI/UX Designer</title>
-    <link>http://manuelferro.com/tags/wireframes/</link>
+    <link>https://manuellington.github.io/UX-UI-Design-Portfolio/tags/wireframes/</link>
     <description>Recent content in Wireframes on Manuel Ferro UI/UX Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://manuelferro.com/tags/wireframes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manuellington.github.io/UX-UI-Design-Portfolio/tags/wireframes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Open Go</title>
-      <link>http://manuelferro.com/projects/opengo/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/opengo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/opengo/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/opengo/</guid>
       <description>Open Go conference website for Go-lang community. Served as a UX-UI Design and development, created wireframes into an interactive prototype. Build on Hugo’s framework static site generator and integration of Evenbrite ticketing API. Event branding, and conference giveaways and logo design.</description>
     </item>
     
     <item>
       <title>Servi.io</title>
-      <link>http://manuelferro.com/projects/servi/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/servi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/servi/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/servi/</guid>
       <description>Servi.io and native web app for workorders and invoices. Served as a UX-UI Design and development, created wireframes into an interactive prototype. Build on Bootstrap framework and migration to IOS devices</description>
     </item>
     
     <item>
       <title>Lupa Shoes</title>
-      <link>http://manuelferro.com/projects/lupashoes/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/lupashoes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/lupashoes/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/lupashoes/</guid>
       <description>Lupa Shoes an online spree shoes store with Amazon aws services and Amazon Dropshipping Workd in a team as a UX-UI Design , created wireframes into an interactive prototype. Build on Bootstrap framework and Spree an open source Ecommerce framework .</description>
     </item>
     
     <item>
       <title>Outcast.io</title>
-      <link>http://manuelferro.com/projects/outcast/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/outcast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/outcast/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/outcast/</guid>
       <description>Outcast.io and weather forecasting application. Website and mobile application. Served as a UX-UI Design and development, created wireframes into an interactive prototype. Build on Bootstrap framework and migration to IOS devices</description>
     </item>
     
     <item>
       <title>Ardan Labs</title>
-      <link>http://manuelferro.com/projects/ardanlabs/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/ardanlabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/ardanlabs/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/ardanlabs/</guid>
       <description>Ardanlabs website and company rebrand and logo design. Go-lang community for consulting and training. Served as a UX-UI Design and development, created wireframes into an interactive prototype. Build on Hugo’s framework static site generator and integration of React Native.</description>
     </item>
     
     <item>
       <title>Gophercon 2017</title>
-      <link>http://manuelferro.com/projects/gophercon17/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/gophercon17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/gophercon17/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/gophercon17/</guid>
       <description>Gophercon annual conference for Golang community. Served as an essential member of the Graphic / Web design team. Created wireframes and mockups for conference website and Eventbrite integration. Design Event package such as banners, booklets, event schedule, shirts, etc.</description>
     </item>
     
     <item>
       <title>Gophercon 2016</title>
-      <link>http://manuelferro.com/projects/gophercon16/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/gophercon16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/gophercon16/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/gophercon16/</guid>
       <description>Gophercon 2016 annual conference for Golang community. Served as an essential member of the Graphic / Web design team. Created wireframes and mockups for conference website and Eventbrite integration. Design Event package such as banners, booklets, event schedule, shirts, etc.</description>
     </item>
     
     <item>
       <title>Gophercon 2015</title>
-      <link>http://manuelferro.com/projects/gophercon15/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/gophercon15/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/gophercon15/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/gophercon15/</guid>
       <description>Gophercon 2015 annual conference for Golang community. Served as an essential member of the Graphic / Web design team. Created wireframes and mockups for conference website and Eventbrite integration. Design Event package such as banners, booklets, event schedule, shirts, etc.</description>
     </item>
     
     <item>
       <title>UA Combine 360</title>
-      <link>http://manuelferro.com/projects/uacombine/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/uacombine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/uacombine/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/uacombine/</guid>
       <description>Lead designer for the Under Armour combine 360 member website. This was a massive project from coding 50+ pages to social optimization, to athletes personal profile.</description>
     </item>
     
     <item>
       <title>Outback Steakhouse</title>
-      <link>http://manuelferro.com/projects/outback-steakhouse/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/outback-steakhouse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/outback-steakhouse/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/outback-steakhouse/</guid>
       <description>Front-end developer for one of many Outback steakhouse promotion. Cut up design for microsite markup, facebook tabs, email campaign and mobile ready optimization.</description>
     </item>
     
     <item>
       <title>Ruby Tuesday</title>
-      <link>http://manuelferro.com/projects/ruby-tuesday/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/ruby-tuesday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/ruby-tuesday/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/ruby-tuesday/</guid>
       <description>UI Designer / Front-end developer for monthly Ruby Tuesday promotion. Design, Cut up for microsite markup, facebook tabs, email campaign and mobile ready optimization.</description>
     </item>
     

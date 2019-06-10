@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile on Manuel Ferro UI/UX Designer</title>
-    <link>http://manuelferro.com/tags/mobile/</link>
+    <link>https://manuellington.github.io/UX-UI-Design-Portfolio/tags/mobile/</link>
     <description>Recent content in Mobile on Manuel Ferro UI/UX Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://manuelferro.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manuellington.github.io/UX-UI-Design-Portfolio/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>UA Combine 360</title>
-      <link>http://manuelferro.com/projects/uacombine/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/uacombine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/uacombine/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/uacombine/</guid>
       <description>Lead designer for the Under Armour combine 360 member website. This was a massive project from coding 50+ pages to social optimization, to athletes personal profile.</description>
     </item>
     
     <item>
       <title>Outback Steakhouse</title>
-      <link>http://manuelferro.com/projects/outback-steakhouse/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/outback-steakhouse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/outback-steakhouse/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/outback-steakhouse/</guid>
       <description>Front-end developer for one of many Outback steakhouse promotion. Cut up design for microsite markup, facebook tabs, email campaign and mobile ready optimization.</description>
     </item>
     
     <item>
       <title>Ruby Tuesday</title>
-      <link>http://manuelferro.com/projects/ruby-tuesday/</link>
+      <link>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/ruby-tuesday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manuelferro.com/projects/ruby-tuesday/</guid>
+      <guid>https://manuellington.github.io/UX-UI-Design-Portfolio/projects/ruby-tuesday/</guid>
       <description>UI Designer / Front-end developer for monthly Ruby Tuesday promotion. Design, Cut up for microsite markup, facebook tabs, email campaign and mobile ready optimization.</description>
     </item>
     

@@ -6,6 +6,9 @@
     {{ .Content }}
     {{ with .Params.link }}<p>Project link: <a href="{{ . }}">{{ . }}</a></p>{{ end }}
     {{ partial "techtags" . }}
+    {{with  .Params.image }}
+      <img src="{{ . }}" style="max-height:600px;max-width:600px;"/>
+    {{ end }}
   </div>
 </section>
 {{ end }}

@@ -97,6 +97,84 @@ div.skills-heading{
 
 
 .resume-section blockquote {
-    border-left: 4px solid #BD5D38;
+    border-left: 4px solid #27B6F8;
     padding-left: 1em;
+}
+
+/*--- Skills CSS Bars ---*/
+
+.list-inline-item {
+  display: block;
+}
+@-webkit-keyframes bars {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 100%;
+  }
+}
+.list-inline-item {
+  display: block;
+}
+.list-inline-item p{
+  display:inline-block;
+  width: 20%;
+}
+span.bar {
+  display:inline-block;
+  width: 40%;
+}
+.bar {
+  border-radius: 20px;
+  position: relative;
+  height: 10px;
+  font-size: 16px;
+  line-height: 30px;
+  color: #fff;
+  + .bar {
+    margin-top: 10px;
+  }
+}
+.bar::before {
+  border-radius: 20px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: -2;
+  width: 100%;
+  background: #FF004F;
+  content: '';
+  text-align: right;
+}
+.bar::after {
+  border-radius: 20px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+  width: 100%;
+  display: block;
+  content: '';
+  background: #27B6F8;
+  transition: 0.7s;
+  -webkit-animation: bars 1 1.8s;
+  text-align: right;
+}
+
+
+.bar1::after {
+  max-width: 11%;
+}
+.bar2::after {
+  max-width: 81%;
+}
+.bar3::after {
+  max-width: 15%;
+}
+.bar4::after {
+  max-width: 60%;
+}
+.bar5::after {
+  max-width: 34%;
 }

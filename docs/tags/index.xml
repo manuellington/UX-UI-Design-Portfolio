@@ -1,247 +1,156 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Manuel Ferro UX/UI Designer</title>
-    <link>https://manuellington.github.io/tags/</link>
-    <description>Recent content in Tags on Manuel Ferro UX/UI Designer</description>
+    <title>Tags on Manuel Ferro UI/UX Designer</title>
+    <link>http://manuelferro.com/tags/</link>
+    <description>Recent content in Tags on Manuel Ferro UI/UX Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://manuellington.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://manuelferro.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Atlassian Ecosystem</title>
-      <link>https://manuellington.github.io/tags/atlassian-ecosystem/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/atlassian-ecosystem/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>BOSH</title>
-      <link>https://manuellington.github.io/tags/bosh/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/bosh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://manuellington.github.io/tags/devops/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>https://manuellington.github.io/tags/java/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REST APIs</title>
-      <link>https://manuellington.github.io/tags/rest-apis/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/rest-apis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bash/shell</title>
-      <link>https://manuellington.github.io/tags/bash/shell/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/bash/shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>monit</title>
-      <link>https://manuellington.github.io/tags/monit/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/monit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://manuellington.github.io/tags/python/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>xml/xslt</title>
-      <link>https://manuellington.github.io/tags/xml/xslt/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/xml/xslt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CI/CD pipelines</title>
-      <link>https://manuellington.github.io/tags/ci/cd-pipelines/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/ci/cd-pipelines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Delivery</title>
-      <link>https://manuellington.github.io/tags/continuous-delivery/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/continuous-delivery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Integration</title>
-      <link>https://manuellington.github.io/tags/continuous-integration/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/continuous-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Culture</title>
-      <link>https://manuellington.github.io/tags/culture/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>agile</title>
-      <link>https://manuellington.github.io/tags/agile/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://manuellington.github.io/tags/agile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlassian Developer Ecosystem</title>
-      <link>https://manuellington.github.io/tags/atlassian-developer-ecosystem/</link>
+      <title>Admin Site</title>
+      <link>http://manuelferro.com/tags/admin-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/tags/atlassian-developer-ecosystem/</guid>
+      <guid>http://manuelferro.com/tags/admin-site/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bamboo</title>
-      <link>https://manuellington.github.io/tags/bamboo/</link>
+      <title>Banners</title>
+      <link>http://manuelferro.com/tags/banners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/tags/bamboo/</guid>
+      <guid>http://manuelferro.com/tags/banners/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bitbucket</title>
-      <link>https://manuellington.github.io/tags/bitbucket/</link>
+      <title>Branding</title>
+      <link>http://manuelferro.com/tags/branding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/tags/bitbucket/</guid>
+      <guid>http://manuelferro.com/tags/branding/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Confluence</title>
-      <link>https://manuellington.github.io/tags/confluence/</link>
+      <title>Conference Package</title>
+      <link>http://manuelferro.com/tags/conference-package/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/tags/confluence/</guid>
+      <guid>http://manuelferro.com/tags/conference-package/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Docker</title>
-      <link>https://manuellington.github.io/tags/docker/</link>
+      <title>Conference Site</title>
+      <link>http://manuelferro.com/tags/conference-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/tags/docker/</guid>
+      <guid>http://manuelferro.com/tags/conference-site/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>JIRA</title>
-      <link>https://manuellington.github.io/tags/jira/</link>
+      <title>Evenbrite</title>
+      <link>http://manuelferro.com/tags/evenbrite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/tags/jira/</guid>
+      <guid>http://manuelferro.com/tags/evenbrite/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>JSON</title>
-      <link>https://manuellington.github.io/tags/json/</link>
+      <title>Facebook Tab</title>
+      <link>http://manuelferro.com/tags/facebook-tab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/tags/json/</guid>
+      <guid>http://manuelferro.com/tags/facebook-tab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Javascript</title>
-      <link>https://manuellington.github.io/tags/javascript/</link>
+      <title>Logo Design</title>
+      <link>http://manuelferro.com/tags/logo-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/tags/javascript/</guid>
+      <guid>http://manuelferro.com/tags/logo-design/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Maven</title>
-      <link>https://manuellington.github.io/tags/maven/</link>
+      <title>Microsite</title>
+      <link>http://manuelferro.com/tags/microsite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/tags/maven/</guid>
+      <guid>http://manuelferro.com/tags/microsite/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spring</title>
-      <link>https://manuellington.github.io/tags/spring/</link>
+      <title>Mobile</title>
+      <link>http://manuelferro.com/tags/mobile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/tags/spring/</guid>
+      <guid>http://manuelferro.com/tags/mobile/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>jQuery</title>
-      <link>https://manuellington.github.io/tags/jquery/</link>
+      <title>Mobile App</title>
+      <link>http://manuelferro.com/tags/mobile-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/tags/jquery/</guid>
+      <guid>http://manuelferro.com/tags/mobile-app/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>node.js</title>
-      <link>https://manuellington.github.io/tags/node.js/</link>
+      <title>Responsive</title>
+      <link>http://manuelferro.com/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/tags/node.js/</guid>
+      <guid>http://manuelferro.com/tags/responsive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social media campaign</title>
+      <link>http://manuelferro.com/tags/social-media-campaign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelferro.com/tags/social-media-campaign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX-UI</title>
+      <link>http://manuelferro.com/tags/ux-ui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelferro.com/tags/ux-ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>http://manuelferro.com/tags/website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelferro.com/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireframes</title>
+      <link>http://manuelferro.com/tags/wireframes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelferro.com/tags/wireframes/</guid>
       <description></description>
     </item>
     

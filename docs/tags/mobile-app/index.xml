@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile App on Manuel Ferro UI/UX Designer</title>
+    <link>http://manuelferro.com/tags/mobile-app/</link>
+    <description>Recent content in Mobile App on Manuel Ferro UI/UX Designer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://manuelferro.com/tags/mobile-app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Servi.io</title>
+      <link>http://manuelferro.com/projects/servi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelferro.com/projects/servi/</guid>
+      <description>Servi.io and native web app for workorders and invoices. Served as a UX-UI Design and development, created wireframes into an interactive prototype. Build on Bootstrap framework and migration to IOS devices</description>
+    </item>
+    
+    <item>
+      <title>Outcast.io</title>
+      <link>http://manuelferro.com/projects/outcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelferro.com/projects/outcast/</guid>
+      <description>Outcast.io and weather forecasting application. Website and mobile application. Served as a UX-UI Design and development, created wireframes into an interactive prototype. Build on Bootstrap framework and migration to IOS devices</description>
+    </item>
+    
+  </channel>
+</rss>

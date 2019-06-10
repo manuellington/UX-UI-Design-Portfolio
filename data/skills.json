@@ -1,23 +1,28 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+    "grouping":"Tools",
+    "skills":[
+      {"name":"Sketch","link":"bar2"},
+      {"name":"Adobe XD","link":"bar1"},
+      {"name":"Adobe Photoshop","link":"bar4"},
+      {"name":"Adobe Illustrator","link":"bar2"},
+      {"name":"Adobe AfterEffect","link":"bar4"},
+      {"name":"HTML","link":"bar3"},
+      {"name":"CSS","link":"bar2"},
+      {"name":"Javascript","link":"bar5"},
+      {"name":"Bootstrap","link":"bar2"},
+      {"name":"React","link":"bar1"},
+      {"name":"Github","link":"bar5"},
+      {"name":"GoHugo","link":"bar2"}
+    ]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-  },
-  {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
+    "grouping":"Knowledge",
+    "skills":[
+      {"name":"UI Design","link":"bar1"},
+      {"name":"Rapid Prototyping","link":"bar2"},
+      {"name":"Wireframing","link":"bar3"},
+      {"name":"Web / Mobile Design","link":"bar4"}
+    ]
   }
 ]

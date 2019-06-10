@@ -9,4 +9,6 @@ outputs:
 - rss
 - json
 ---
-<p>Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.</p>
+<p>I want to work alongside people who I can grow with, and have a great time creating great work</p>
+<p>I'm a 35 years old UI/UX Developer, I have 10 years of experience as a UI/UX Designer, Front-end Design and Graphic Designer. I believe the duty of UI/UX design is understanding people and providing them with a better life, so I take every chance to dig and explore principles behind each user behavior. I’m good at using technologies to tackle different problems and enjoy work with others, especially when they have the same passion.</p>
+<p>I find pleasure in creating visual solutions that can communicate the message effectively. So with every project, the goal is to give it an artistic and distinct identity that reflects the client and engages the target audience’s interest.</p>

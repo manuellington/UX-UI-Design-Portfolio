@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social media campaign on Manuel Ferro UI/UX Designer</title>
+    <link>http://manuelferro.com/tags/social-media-campaign/</link>
+    <description>Recent content in Social media campaign on Manuel Ferro UI/UX Designer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://manuelferro.com/tags/social-media-campaign/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Outback Steakhouse</title>
+      <link>http://manuelferro.com/projects/outback-steakhouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelferro.com/projects/outback-steakhouse/</guid>
+      <description>Front-end developer for one of many Outback steakhouse promotion. Cut up design for microsite markup, facebook tabs, email campaign and mobile ready optimization.</description>
+    </item>
+    
+    <item>
+      <title>Ruby Tuesday</title>
+      <link>http://manuelferro.com/projects/ruby-tuesday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://manuelferro.com/projects/ruby-tuesday/</guid>
+      <description>UI Designer / Front-end developer for monthly Ruby Tuesday promotion. Design, Cut up for microsite markup, facebook tabs, email campaign and mobile ready optimization.</description>
+    </item>
+    
+  </channel>
+</rss>

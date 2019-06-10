@@ -1,20 +1,26 @@
 [
-    {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.",
-        "range":"February 2016 - Present"
-    },
-    {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
-    },
-    {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
-    }
+  {
+      "role":"Graphic / UX/UI Designer",
+      "company":"Ardan Labs",
+      "summary":"Served as an essential member of the UI/UX Design team, design mobile/web apps from scratch, wireframes into interactive prototypes and build live apps that tackle real problems. UI design and development for website/e-commerce projects, build a responsive layout for mobile, conduct user testing and quick iteration. Code responsive designs layouts, refactor and lint backend systems. Worked on several annual conferences for client’s from marketing, research, and development team for discussing project ideas, capturing their goals, and turning them into visual designs for client review",
+      "range":"Sep 2014 - Present"
+  },
+  {
+      "role":"Graphic Designer - Contract",
+      "company":"Valls Group",
+      "summary":"Led multiple brand identity design projects from prototyping product design to finished printed labels and restaurant menus, receiving more than 90% client satisfaction rate. Worked closely with the Director of Safety and Sanitation to ensure product labels and brand guidelines were up to company’s standards ",
+      "range":"Jun 2013 - Present"
+  },
+  {
+      "role":"Graphic Designer - Contract",
+      "company":"Nukleus",
+      "summary":"Lead UI/UX designer in several native web app projects. Worked closely with developers using React Native, HTML, SCSS, and Bootstrap frameworks.",
+      "range":"Dec 2012 – May 2013 "
+  },
+  {
+      "role":"Graphic / Web - Social Media Designer",
+      "company":"Thuzi LLC",
+      "summary":"Served as an essential member of the Graphic / Web design team in multiple brand identity design projects/social media campaigns for local business, and well-known brands including Under Armour, Ruby Tuesdays, Outback Steakhouse, Lancome, etc. Collaborated in weekly brainstorm meetings to inspire designers in different projects, ensuring the team provided clients with high-quality services and products. Collected and analyzed clients’ backgrounds, marketing strategies, and company cultures in order to design the visual brand that integrated the company’s vision.",
+      "range":"March 2010 – Nov 2012 "
+  }
 ]

@@ -3,12 +3,12 @@
     "grouping":"Tools",
     "skills":[
       {"name":"Sketch","link":"bar2"},
-      {"name":"Adobe XD","link":"bar1"},
+      {"name":"Adobe XD","link":"bar4"},
       {"name":"Adobe Photoshop","link":"bar4"},
       {"name":"Adobe Illustrator","link":"bar2"},
       {"name":"Adobe AfterEffect","link":"bar4"},
-      {"name":"HTML","link":"bar3"},
-      {"name":"CSS","link":"bar2"},
+      {"name":"HTML","link":"bar4"},
+      {"name":"CSS","link":"bar4"},
       {"name":"Javascript","link":"bar5"},
       {"name":"Bootstrap","link":"bar2"},
       {"name":"React","link":"bar1"},
@@ -19,10 +19,10 @@
   {
     "grouping":"Knowledge",
     "skills":[
-      {"name":"UI Design","link":"bar1"},
+      {"name":"UI Design","link":"bar2"},
       {"name":"Rapid Prototyping","link":"bar2"},
-      {"name":"Wireframing","link":"bar3"},
-      {"name":"Web / Mobile Design","link":"bar4"}
+      {"name":"Wireframing","link":"bar4"},
+      {"name":"Web / Mobile Design","link":"bar2"}
     ]
   }
 ]

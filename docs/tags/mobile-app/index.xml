@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile App on Manuel Ferro UI/UX Designer</title>
-    <link>https://manuellington.github.io/ux-ui-design-portfolio/tags/mobile-app/</link>
+    <link>https://manuelferro.com/ux-ui-design-portfolio/tags/mobile-app/</link>
     <description>Recent content in Mobile App on Manuel Ferro UI/UX Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://manuellington.github.io/ux-ui-design-portfolio/tags/mobile-app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manuelferro.com/ux-ui-design-portfolio/tags/mobile-app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Servi.io</title>
-      <link>https://manuellington.github.io/ux-ui-design-portfolio/projects/servi/</link>
+      <link>https://manuelferro.com/ux-ui-design-portfolio/projects/servi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/ux-ui-design-portfolio/projects/servi/</guid>
+      <guid>https://manuelferro.com/ux-ui-design-portfolio/projects/servi/</guid>
       <description>Servi.io and native web app for workorders and invoices. Served as a UX-UI Design and development, created wireframes into an interactive prototype. Build on Bootstrap framework and migration to IOS devices</description>
     </item>
     
     <item>
       <title>Outcast.io</title>
-      <link>https://manuellington.github.io/ux-ui-design-portfolio/projects/outcast/</link>
+      <link>https://manuelferro.com/ux-ui-design-portfolio/projects/outcast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/ux-ui-design-portfolio/projects/outcast/</guid>
+      <guid>https://manuelferro.com/ux-ui-design-portfolio/projects/outcast/</guid>
       <description>Outcast.io and weather forecasting application. Website and mobile application. Served as a UX-UI Design and development, created wireframes into an interactive prototype. Build on Bootstrap framework and migration to IOS devices</description>
     </item>
     

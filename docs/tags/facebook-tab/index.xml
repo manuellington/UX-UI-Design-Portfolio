@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Facebook Tab on Manuel Ferro UI/UX Designer</title>
-    <link>https://manuellington.github.io/ux-ui-design-portfolio/tags/facebook-tab/</link>
+    <link>https://manuelferro.com/ux-ui-design-portfolio/tags/facebook-tab/</link>
     <description>Recent content in Facebook Tab on Manuel Ferro UI/UX Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://manuellington.github.io/ux-ui-design-portfolio/tags/facebook-tab/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manuelferro.com/ux-ui-design-portfolio/tags/facebook-tab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Outback Steakhouse</title>
-      <link>https://manuellington.github.io/ux-ui-design-portfolio/projects/outback-steakhouse/</link>
+      <link>https://manuelferro.com/ux-ui-design-portfolio/projects/outback-steakhouse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/ux-ui-design-portfolio/projects/outback-steakhouse/</guid>
+      <guid>https://manuelferro.com/ux-ui-design-portfolio/projects/outback-steakhouse/</guid>
       <description>Front-end developer for one of many Outback steakhouse promotion. Cut up design for microsite markup, facebook tabs, email campaign and mobile ready optimization.</description>
     </item>
     
     <item>
       <title>Ruby Tuesday</title>
-      <link>https://manuellington.github.io/ux-ui-design-portfolio/projects/ruby-tuesday/</link>
+      <link>https://manuelferro.com/ux-ui-design-portfolio/projects/ruby-tuesday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manuellington.github.io/ux-ui-design-portfolio/projects/ruby-tuesday/</guid>
+      <guid>https://manuelferro.com/ux-ui-design-portfolio/projects/ruby-tuesday/</guid>
       <description>UI Designer / Front-end developer for monthly Ruby Tuesday promotion. Design, Cut up for microsite markup, facebook tabs, email campaign and mobile ready optimization.</description>
     </item>
     

@@ -154,21 +154,7 @@ a:hover, a:focus, a:active {
 img {
   max-width:80%;
 }
-@media (min-width: 480px) {
-  .inner-project-img {
-    max-height:480px;
-    max-width:480px;
-  }
-}
-@media (min-width: 768px) {
-  .inner-project-img {
-    max-height:480px;
-    max-width:480px;
-  }
-}
-@media (min-width: 992px) {
-  .inner-project-img {
-    max-height:600px;
-    max-width:600px;
-  }
+
+.inner-project-img img{
+  max-width: 90%;
 }

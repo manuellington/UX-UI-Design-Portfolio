@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Manuel Ferro UX/UI Designer</title>
-    <link>https://manuellington.github.io/ux-ui-design-portfolio/projects/</link>
+    <link>https://manuellington.github.io/projects/</link>
     <description>Recent content in Projects on Manuel Ferro UX/UI Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://manuellington.github.io/ux-ui-design-portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manuellington.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

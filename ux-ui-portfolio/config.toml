@@ -12,7 +12,7 @@ publishDir = "docs"
     contactNote = "UX/UI Designer"
     profileImage = "img/TechChat.png"
     email = "maferro55@gmail.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    description = " "
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
